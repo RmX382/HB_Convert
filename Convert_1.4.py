@@ -3,6 +3,9 @@
 #  Convert_v1.3
 #  Copyright (c)Ton van Twuyver @ <profiler1234@gmail.com>
 #
+#  Convert_v1.4
+#  Copyright (c)Remi Bergay @ <rmx@bergay-colin.fr>
+#
 #  This script is written with "HomeBank" in mind. <http://homebank.free.fr>
 #  Purpose:    to convert any Bank-file.csv into Homebank.csv by means of a definition-file.
 #  
