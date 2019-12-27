@@ -333,7 +333,7 @@ class CsvConvert:
                                 print (float(bal) + float(am))
 
                         # Field not available [-1]
-                        elif (h < 7) and (ip[j] == -1):
+                        elif (h < 8) and (ip[j] == -1):
                             record = '%s;'% record
                             
                     #print record
