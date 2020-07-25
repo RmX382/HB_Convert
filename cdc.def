@@ -1,0 +1,16 @@
+0;date          ;2 ;Curr.date      ;YYYYMMDD
+1;paymode       ;8 ;Booking-Code   ;ga,gb,cb,sb,tb,ba,ck,eb,ei,ma,nb,bg,ac,id,3,3,4,4,5,6,6,7,7,7,7,8,8,8
+2;info          ;5 ;Offset-account ;
+3;payee         ;6 ;Payee          ;
+4;description   ;10;Description.1  ;
+4;description   ;11;Description.2  ;
+4;description   ;12;Description.3  ;
+4;description   ;13;Description.4  ;
+4;description   ;14;Description.5  ;
+4;description   ;15;Description.6  ;
+5;amount        ;4 ;Amount         ;
+5;amount_sign   ;3 ;Debet/Credit   ;D,C
+6;category      ;-1;               ;
+7:tags          ;8;                ;
+8;*account      ;0 ;Account        ;
+9;*balance      ;-1;               ;
