@@ -1,0 +1,4 @@
+Timestamp (UTC),Transaction Description,Currency,Amount,To Currency,To Amount,Native Currency,Native Amount,Native Amount (in USD),Transaction Kind
+2020-07-24 20:46:10,Ovh,EUR,-1.0,,,EUR,-1.0,-1.16612,
+2020-07-24 20:30:35,Pp*9667 Code,GBP,-1.0,,,EUR,-1.1,-1.282732,
+2020-07-24 17:09:22,EUR -> EUR,EUR,200.0,EUR,200.0,EUR,200.0,233.224,
