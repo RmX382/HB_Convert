@@ -90,9 +90,8 @@ H  <Homebank>    B    <"Bank">        <Bank-file>
 5;amount        ;4 ;Amount         ;
 5;amount_sign   ;3 ;Debet/Credit   ;D,C
 6;category      ;-1;               ;
-7:tags          ;8;                ;
-8;*account      ;0 ;Account        ;
-9;*balance      ;-1;               ;
+7;*account      ;0 ;Account        ;
+7;*balance      ;-1;               ;
 =========================================================================================================
 Example-definition-file 2 (with header 1 line to be skipped):
 ---------------------------------------------------------------------------------------------------------
@@ -112,9 +111,8 @@ H;header        ;1
 5;amount        ;4 ;Amount         ;
 5;amount_sign   ;3 ;Debet/Credit   ;D,C
 6;category      ;-1;               ;
-7:tags          ;8;                ;
-8;*account      ;0 ;Account        ;
-9;*balance      ;-1;               ;
+7;*account      ;0 ;Account        ;
+8*balance      ;-1;               ;
 =========================================================================================================
 Example-definition-file 3 (with header containing data):
 --------------------------------------------------------------------------------------------
@@ -133,6 +131,5 @@ H  <Homebank>    B    <"Bank">        <Bank-file>
 5;amount        ;4 ;Amount         ;
 5;amount_sign   ;3 ;Debet/Credit   ;D,C
 6;category      ;-1;               ;
-7:tags          ;8;                ;
-8;*account      ;-7;Account        ;2,1
-9;*balance      ;-7;Balance        ;6,1
+7;*account      ;-7;Account        ;2,1
+8*balance      ;-7;Balance        ;6,1

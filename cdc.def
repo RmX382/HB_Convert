@@ -6,6 +6,5 @@ H;header        ; 1
 4;description   ; 1;Description.1  ;
 5;amount        ; 7;Amount         ;
 6;category      ;-1;               ;
-7:tags          ;-1;               ;
-8;*account      ;-1;Account        ;
-9;*balance      ;-1;               ;
+7;*account      ;-1;Account        ;
+8;*balance      ;-1;               ;
