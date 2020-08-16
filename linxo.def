@@ -1,0 +1,13 @@
+H;header        ; 1
+0;date          ; 0;Curr.date      ;DD/MM/YYYY
+1;paymode       ;-1;Booking-Code   ;6
+2;info          ; 1;Offset-account ;
+3;payee         ;-1;Payee          ;
+4;description   ; 4;Description.1  ;
+4;description   ; 5;Description.2  ;
+4;description   ; 8;Description.3  ;
+5;amount        ; 3;Amount         ;
+6;category      ; 2;               ;
+7:tags          ; 6;               ;
+8;*account      ; 7;Account        ;
+9;*balance      ;-1;               ;
