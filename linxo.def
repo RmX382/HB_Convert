@@ -8,6 +8,5 @@ H;header        ; 1
 4;description   ; 8;Description.3  ;
 5;amount        ; 3;Amount         ;
 6;category      ; 2;               ;
-7:tags          ; 6;               ;
 8;*account      ; 7;Account        ;
 9;*balance      ;-1;               ;
